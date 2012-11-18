@@ -1,0 +1,7 @@
+lazymeter is a mashup of Google-Apis to measure your laziness
+
+It uses:
+
+* Google Calendar	to get information about your daily schedule
+* Google Latitude	to corralate your event locations with your actual postition
+* Google Chart Tools	to visualize these results in a nice way
